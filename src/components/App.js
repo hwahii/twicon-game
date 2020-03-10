@@ -7,7 +7,7 @@ import './App.css';
 const App = () => {
 	return (
 		<div>
-			<BrowserRouter>
+			<BrowserRouter basename="/twicon-game">
 				<div style={{ textAlign: 'center' }}>
 					<Route exact path="/" component={Landing} />
 					<Route path="/game" component={Game} />
