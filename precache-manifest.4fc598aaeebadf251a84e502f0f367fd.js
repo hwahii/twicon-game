@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "08c3fb2da0ead1a875a40a63b8b950e0",
+    "revision": "06553d49cfef79aae150450778972667",
     "url": "/twicon-game/index.html"
   },
   {
