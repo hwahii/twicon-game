@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/twicon-game/static/css/main.358c0182.chunk.css",
+    "main.js": "/twicon-game/static/js/main.032af259.chunk.js",
+    "main.js.map": "/twicon-game/static/js/main.032af259.chunk.js.map",
+    "runtime-main.js": "/twicon-game/static/js/runtime-main.4d817ca3.js",
+    "runtime-main.js.map": "/twicon-game/static/js/runtime-main.4d817ca3.js.map",
+    "static/js/2.8128a09e.chunk.js": "/twicon-game/static/js/2.8128a09e.chunk.js",
+    "static/js/2.8128a09e.chunk.js.map": "/twicon-game/static/js/2.8128a09e.chunk.js.map",
+    "index.html": "/twicon-game/index.html",
+    "precache-manifest.f6779af32c7267d699294f7963143ac9.js": "/twicon-game/precache-manifest.f6779af32c7267d699294f7963143ac9.js",
+    "service-worker.js": "/twicon-game/service-worker.js",
+    "static/css/main.358c0182.chunk.css.map": "/twicon-game/static/css/main.358c0182.chunk.css.map",
+    "static/js/2.8128a09e.chunk.js.LICENSE.txt": "/twicon-game/static/js/2.8128a09e.chunk.js.LICENSE.txt",
+    "static/media/landing.png": "/twicon-game/static/media/landing.96691523.png",
+    "static/media/twicon.css": "/twicon-game/static/media/twicon.a657075b.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d817ca3.js",
+    "static/js/2.8128a09e.chunk.js",
+    "static/css/main.358c0182.chunk.css",
+    "static/js/main.032af259.chunk.js"
+  ]
+}
