@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "42db9b8e5c0068423d9421e49f8d1950",
+    "revision": "08c3fb2da0ead1a875a40a63b8b950e0",
     "url": "/twicon-game/index.html"
   },
   {
-    "revision": "0620674877852dd22f47",
+    "revision": "311a6e14374b999a7b20",
     "url": "/twicon-game/static/css/main.358c0182.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/twicon-game/static/js/2.8128a09e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0620674877852dd22f47",
-    "url": "/twicon-game/static/js/main.032af259.chunk.js"
+    "revision": "311a6e14374b999a7b20",
+    "url": "/twicon-game/static/js/main.951b3821.chunk.js"
   },
   {
     "revision": "2817f025d4f328a13330",
