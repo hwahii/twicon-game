@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/twicon-game/precache-manifest.4fc598aaeebadf251a84e502f0f367fd.js"
+  "/twicon-game/precache-manifest.57dfde31732236e803fb5a6ea2994ea8.js"
 );
 
 self.addEventListener('message', (event) => {
