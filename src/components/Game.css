@@ -1,0 +1,48 @@
+ul {
+	width: 330px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+
+li {
+	width: 150px;
+	height: 150px;
+	text-align: center;
+	line-height: 150px;
+	border: none;
+	border-radius: 20px;
+	background-color: #fff;
+	margin: 10px 0;
+	position: relative;
+	cursor: pointer;
+	-webkit-box-shadow: -1px 2px 5px 0px rgba(0, 0, 0, 0.75);
+	-moz-box-shadow: -1px 2px 5px 0px rgba(0, 0, 0, 0.75);
+	box-shadow: -1px 2px 5px 0px rgba(0, 0, 0, 0.75);
+}
+
+li .correct {
+	border: none;
+	border-radius: 20px;
+	background-color: #3eb581;
+}
+
+li .correct i,
+li .wrong i {
+	color: #fff;
+}
+
+li .wrong {
+	border: none;
+	border-radius: 20px;
+	background-color: #cf7a73;
+}
+
+li:hover {
+	background-color: #e8f7f0;
+}
+
+.question {
+	margin-bottom: 20px;
+	font-size: 50px;
+}
